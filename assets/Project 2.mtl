@@ -1,0 +1,11 @@
+# Exported from Nomad Sculpt
+
+newmtl 二十面体
+ map_Kd 二十面体_color.png
+ map_roughness 二十面体_roughness.png
+ map_Pr 二十面体_roughness.png
+ map_metallic 二十面体_metalness.png
+ map_Pm 二十面体_metalness.png
+ Kd 1.000000 1.000000 1.000000
+ Pr 0.250000
+ Pm 0.000000
